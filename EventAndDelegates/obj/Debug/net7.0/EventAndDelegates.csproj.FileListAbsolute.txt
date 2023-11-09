@@ -1,0 +1,15 @@
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.csproj.AssemblyReference.cache
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.AssemblyInfoInputs.cache
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.AssemblyInfo.cs
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.csproj.CoreCompileInputs.cache
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\bin\Debug\net7.0\EventAndDelegates.exe
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\bin\Debug\net7.0\EventAndDelegates.deps.json
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\bin\Debug\net7.0\EventAndDelegates.runtimeconfig.json
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\bin\Debug\net7.0\EventAndDelegates.dll
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\bin\Debug\net7.0\EventAndDelegates.pdb
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.dll
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\refint\EventAndDelegates.dll
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.pdb
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\EventAndDelegates.genruntimeconfig.cache
+D:\MySamples\EventAndDelegatePractice\EventAndDelegates\EventAndDelegates\obj\Debug\net7.0\ref\EventAndDelegates.dll
